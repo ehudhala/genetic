@@ -3,7 +3,7 @@ import itertools
 import random
 from typing import List, Tuple, Callable
 
-from genetic.types import Chromosome, Fitness, Population, CrossoverFunction
+from genetic.genetic_types import Chromosome, Fitness, Population, CrossoverFunction
 
 
 # Selection
